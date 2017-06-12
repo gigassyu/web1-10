@@ -65,8 +65,10 @@
     display:block;
     clear:both;
   }
+  }
+  
    body{
     background-color: gray;
     font-family: "Nico Moji";
     }
-  }
+  
