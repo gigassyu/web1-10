@@ -30,10 +30,7 @@
       content: "横長";
     }
   }
-  body{
-    background-color: gray;
-    font-family: "Nico Moji";
-    }
+ 
   
 @media screen and (min-width:641px){
   aside{
@@ -67,4 +64,8 @@
     display:block;
     clear:both
   }
+   body{
+    background-color: gray;
+    font-family: "Nico Moji";
+    }
   }
