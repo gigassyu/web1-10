@@ -43,7 +43,7 @@
     display:block;
     clear:both;
   }
-  
+} 
   @media screen and (min-width:1025px){
     #main{
       max-width: 1024px;
