@@ -4,7 +4,10 @@
   margin: 0;
   padding: 0;
 }
-
+body{
+    background-color: gray;
+    font-family: "Nico Moji";
+    }
 @media screen and (max-width:640px){
   body{
     background-color: red;
@@ -67,8 +70,5 @@
   }
   }
   
-   body{
-    background-color: gray;
-    font-family: "Nico Moji";
-    }
+   
   
